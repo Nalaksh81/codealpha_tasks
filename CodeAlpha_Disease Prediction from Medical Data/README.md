@@ -2,13 +2,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is part of the CodeAlpha Machine Learning Internship and focuses on Task 4: Disease Prediction from Medical Data. The goal is to predict whether a patient is likely to have a disease based on medical information using machine learning classification algorithms. By analyzing patient health attributes, the model can assist in early diagnosis and support faster, data-driven healthcare decisions.
 
 ---
 
-## ✨ Features
+## Features
 
 - Data preprocessing
 - Handling missing values
@@ -22,7 +22,7 @@ This project is part of the CodeAlpha Machine Learning Internship and focuses on
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology                 | Purpose                                     |
 | -------------------------- | ------------------------------------------- |
@@ -36,7 +36,7 @@ This project is part of the CodeAlpha Machine Learning Internship and focuses on
 
 ---
 
-## 🤖 Machine Learning Algorithms
+## Machine Learning Algorithms
 
 One or more classification algorithms can be used in this project, such as:
 
@@ -50,7 +50,7 @@ These algorithms are suitable for medical data classification because they can l
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains patient medical information such as:
 
@@ -68,7 +68,7 @@ Public datasets such as the UCI Heart Disease Dataset, Diabetes Dataset, or Brea
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Import libraries
 2. Load dataset
@@ -99,7 +99,7 @@ These metrics help determine how reliably the model predicts disease outcomes an
 
 ---
 
-## 💻 Installation
+## Installation
 
 Clone the repository and install the required libraries:
 
@@ -111,7 +111,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Run the main script:
 
@@ -123,7 +123,7 @@ Or open and run the Jupyter Notebook for interactive analysis.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 DiseasePrediction/
@@ -140,7 +140,7 @@ DiseasePrediction/
 
 ---
 
-## 🧪 Sample Output
+## Sample Output
 
 Expected outputs may include:
 
@@ -152,7 +152,7 @@ Expected outputs may include:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible enhancements for the project include:
 
@@ -163,11 +163,6 @@ Possible enhancements for the project include:
 - Cloud deployment
 - Explainable AI (SHAP/LIME)
 
----
-
-## ✅ Conclusion
-
-This project demonstrates how machine learning can be used to predict diseases early from medical data. It helps support faster and more informed healthcare decisions by identifying potential risks from patient information.
 
 ---
 
