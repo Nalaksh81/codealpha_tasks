@@ -81,24 +81,6 @@ The model is evaluated using standard classification metrics:
 - ROC-AUC Score: Evaluates the model’s ability to distinguish between classes.
 - Confusion Matrix: Shows true positives, false positives, true negatives, and false negatives.
 
-## Installation
-
-```bash
-git clone <repository-url>
-cd CodeAlpha_CreditScoringModel
-pip install -r requirements.txt
-```
-
-## How to Run
-
-```bash
-python main.py
-```
-
-or
-
-Open and run the Jupyter Notebook for an interactive analysis.
-
 ## Project Structure
 
 CreditScoringModel/
@@ -128,11 +110,6 @@ Expected outputs from the project include:
 - Web application using Flask or Streamlit
 - Deployment on cloud
 - Explainable AI techniques
-
-## Conclusion
-
-This internship project demonstrates how machine learning can help automate credit risk assessment. By analyzing historical financial data and training classification models, the project provides a strong foundation for predicting creditworthiness and supporting data-driven lending decisions.
-
 ## Author
 
 Name: Your Name
